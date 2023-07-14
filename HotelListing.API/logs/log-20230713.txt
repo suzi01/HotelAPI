@@ -1,0 +1,30 @@
+2023-07-13 16:43:32.011 +01:00 [INF] Now listening on: http://localhost:5193
+2023-07-13 16:43:32.042 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-07-13 16:43:32.042 +01:00 [INF] Hosting environment: Development
+2023-07-13 16:43:32.042 +01:00 [INF] Content root path: /Users/suzannah.thompson/RiderProjects/HotelListing/HotelListing.API
+2023-07-13 16:43:39.874 +01:00 [INF] Application is shutting down...
+2023-07-13 16:44:21.932 +01:00 [INF] Now listening on: http://localhost:5193
+2023-07-13 16:44:21.967 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-07-13 16:44:21.967 +01:00 [INF] Hosting environment: Development
+2023-07-13 16:44:21.967 +01:00 [INF] Content root path: /Users/suzannah.thompson/RiderProjects/HotelListing/HotelListing.API
+2023-07-13 16:44:26.148 +01:00 [INF] Application is shutting down...
+2023-07-13 16:45:51.396 +01:00 [INF] Now listening on: http://localhost:5193
+2023-07-13 16:45:51.427 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-07-13 16:45:51.428 +01:00 [INF] Hosting environment: Development
+2023-07-13 16:45:51.428 +01:00 [INF] Content root path: /Users/suzannah.thompson/RiderProjects/HotelListing/HotelListing.API
+2023-07-13 16:46:07.743 +01:00 [INF] Application is shutting down...
+2023-07-13 16:46:34.178 +01:00 [INF] Now listening on: http://localhost:5193
+2023-07-13 16:46:34.208 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-07-13 16:46:34.209 +01:00 [INF] Hosting environment: Development
+2023-07-13 16:46:34.209 +01:00 [INF] Content root path: /Users/suzannah.thompson/RiderProjects/HotelListing/HotelListing.API
+2023-07-13 16:46:43.174 +01:00 [INF] Application is shutting down...
+2023-07-13 16:47:56.902 +01:00 [INF] Now listening on: http://localhost:5193
+2023-07-13 16:47:56.931 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-07-13 16:47:56.931 +01:00 [INF] Hosting environment: Development
+2023-07-13 16:47:56.931 +01:00 [INF] Content root path: /Users/suzannah.thompson/RiderProjects/HotelListing/HotelListing.API
+2023-07-13 16:48:00.957 +01:00 [INF] Application is shutting down...
+2023-07-13 16:48:26.784 +01:00 [INF] Now listening on: http://localhost:5193
+2023-07-13 16:48:26.814 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-07-13 16:48:26.815 +01:00 [INF] Hosting environment: Development
+2023-07-13 16:48:26.815 +01:00 [INF] Content root path: /Users/suzannah.thompson/RiderProjects/HotelListing/HotelListing.API
+2023-07-13 16:48:58.676 +01:00 [INF] Application is shutting down...
