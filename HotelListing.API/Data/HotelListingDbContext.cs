@@ -58,7 +58,7 @@ public class HotelListingDbContext:DbContext
                 Name = "Grand Palldium",
                 Address = "Nassua",
                 CountryId = 2,
-                Rating = 4
+                Rating = 4.5
             }
         );
     }
