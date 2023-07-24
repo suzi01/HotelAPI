@@ -1,0 +1,5 @@
+2023-07-23 12:49:19.389 +01:00 [INF] Now listening on: http://localhost:5193
+2023-07-23 12:49:19.421 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-07-23 12:49:19.422 +01:00 [INF] Hosting environment: Development
+2023-07-23 12:49:19.422 +01:00 [INF] Content root path: /Users/suzannah.thompson/RiderProjects/HotelListing/HotelListing.API
+2023-07-23 12:50:40.593 +01:00 [WRN] Failed to determine the https port for redirect.

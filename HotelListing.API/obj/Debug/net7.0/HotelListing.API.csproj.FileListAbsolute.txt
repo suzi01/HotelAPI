@@ -10,6 +10,10 @@
 /Users/suzannah.thompson/RiderProjects/HotelListing/HotelListing.API/bin/Debug/net7.0/Azure.Core.dll
 /Users/suzannah.thompson/RiderProjects/HotelListing/HotelListing.API/bin/Debug/net7.0/Azure.Identity.dll
 /Users/suzannah.thompson/RiderProjects/HotelListing/HotelListing.API/bin/Debug/net7.0/Humanizer.dll
+/Users/suzannah.thompson/RiderProjects/HotelListing/HotelListing.API/bin/Debug/net7.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/suzannah.thompson/RiderProjects/HotelListing/HotelListing.API/bin/Debug/net7.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Users/suzannah.thompson/RiderProjects/HotelListing/HotelListing.API/bin/Debug/net7.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Users/suzannah.thompson/RiderProjects/HotelListing/HotelListing.API/bin/Debug/net7.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
 /Users/suzannah.thompson/RiderProjects/HotelListing/HotelListing.API/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
 /Users/suzannah.thompson/RiderProjects/HotelListing/HotelListing.API/bin/Debug/net7.0/Microsoft.AspNetCore.Razor.Language.dll
 /Users/suzannah.thompson/RiderProjects/HotelListing/HotelListing.API/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
@@ -36,6 +40,9 @@
 /Users/suzannah.thompson/RiderProjects/HotelListing/HotelListing.API/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Sqlite.dll
 /Users/suzannah.thompson/RiderProjects/HotelListing/HotelListing.API/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.SqlServer.dll
 /Users/suzannah.thompson/RiderProjects/HotelListing/HotelListing.API/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/Users/suzannah.thompson/RiderProjects/HotelListing/HotelListing.API/bin/Debug/net7.0/Microsoft.Extensions.Identity.Core.dll
+/Users/suzannah.thompson/RiderProjects/HotelListing/HotelListing.API/bin/Debug/net7.0/Microsoft.Extensions.Identity.Stores.dll
+/Users/suzannah.thompson/RiderProjects/HotelListing/HotelListing.API/bin/Debug/net7.0/Microsoft.Extensions.Options.dll
 /Users/suzannah.thompson/RiderProjects/HotelListing/HotelListing.API/bin/Debug/net7.0/Microsoft.Identity.Client.dll
 /Users/suzannah.thompson/RiderProjects/HotelListing/HotelListing.API/bin/Debug/net7.0/Microsoft.Identity.Client.Extensions.Msal.dll
 /Users/suzannah.thompson/RiderProjects/HotelListing/HotelListing.API/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll

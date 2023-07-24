@@ -1,0 +1,292 @@
+2023-07-24 09:10:51.817 +01:00 [INF] Application is shutting down...
+2023-07-24 09:54:22.840 +01:00 [INF] Now listening on: http://localhost:5193
+2023-07-24 09:54:22.873 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-07-24 09:54:22.873 +01:00 [INF] Hosting environment: Development
+2023-07-24 09:54:22.873 +01:00 [INF] Content root path: /Users/suzannah.thompson/RiderProjects/HotelListing/HotelListing.API
+2023-07-24 09:54:23.317 +01:00 [ERR] An unhandled exception has occurred while executing the request.
+System.ArgumentNullException: Value cannot be null. (Parameter 's')
+   at System.ArgumentNullException.Throw(String paramName)
+   at System.Text.Encoding.GetBytes(String s)
+   at Program.<>c__DisplayClass0_0.<<Main>$>b__4(JwtBearerOptions options) in /Users/suzannah.thompson/RiderProjects/HotelListing/HotelListing.API/Program.cs:line 52
+   at Microsoft.Extensions.Options.OptionsFactory`1.Create(String name)
+   at System.Lazy`1.ViaFactory(LazyThreadSafetyMode mode)
+   at System.Lazy`1.ExecutionAndPublication(LazyHelper executionAndPublication, Boolean useDefaultConstructor)
+   at System.Lazy`1.CreateValue()
+   at Microsoft.Extensions.Options.OptionsCache`1.GetOrAdd[TArg](String name, Func`3 createOptions, TArg factoryArgument)
+   at Microsoft.AspNetCore.Authentication.AuthenticationHandler`1.InitializeAsync(AuthenticationScheme scheme, HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationHandlerProvider.GetHandlerAsync(HttpContext context, String authenticationScheme)
+   at Microsoft.AspNetCore.Authentication.AuthenticationService.AuthenticateAsync(HttpContext context, String scheme)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2023-07-24 09:54:23.399 +01:00 [ERR] An unhandled exception has occurred while executing the request.
+System.ArgumentNullException: Value cannot be null. (Parameter 's')
+   at System.ArgumentNullException.Throw(String paramName)
+   at System.Text.Encoding.GetBytes(String s)
+   at Program.<>c__DisplayClass0_0.<<Main>$>b__4(JwtBearerOptions options) in /Users/suzannah.thompson/RiderProjects/HotelListing/HotelListing.API/Program.cs:line 52
+   at Microsoft.Extensions.Options.OptionsFactory`1.Create(String name)
+   at System.Lazy`1.ViaFactory(LazyThreadSafetyMode mode)
+--- End of stack trace from previous location ---
+   at System.Lazy`1.CreateValue()
+   at Microsoft.Extensions.Options.OptionsCache`1.GetOrAdd[TArg](String name, Func`3 createOptions, TArg factoryArgument)
+   at Microsoft.AspNetCore.Authentication.AuthenticationHandler`1.InitializeAsync(AuthenticationScheme scheme, HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationHandlerProvider.GetHandlerAsync(HttpContext context, String authenticationScheme)
+   at Microsoft.AspNetCore.Authentication.AuthenticationService.AuthenticateAsync(HttpContext context, String scheme)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2023-07-24 10:01:12.223 +01:00 [ERR] An unhandled exception has occurred while executing the request.
+System.ArgumentNullException: Value cannot be null. (Parameter 's')
+   at System.ArgumentNullException.Throw(String paramName)
+   at System.Text.Encoding.GetBytes(String s)
+   at Program.<>c__DisplayClass0_0.<<Main>$>b__4(JwtBearerOptions options) in /Users/suzannah.thompson/RiderProjects/HotelListing/HotelListing.API/Program.cs:line 52
+   at Microsoft.Extensions.Options.OptionsFactory`1.Create(String name)
+   at System.Lazy`1.ViaFactory(LazyThreadSafetyMode mode)
+--- End of stack trace from previous location ---
+   at System.Lazy`1.CreateValue()
+   at Microsoft.Extensions.Options.OptionsCache`1.GetOrAdd[TArg](String name, Func`3 createOptions, TArg factoryArgument)
+   at Microsoft.AspNetCore.Authentication.AuthenticationHandler`1.InitializeAsync(AuthenticationScheme scheme, HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationHandlerProvider.GetHandlerAsync(HttpContext context, String authenticationScheme)
+   at Microsoft.AspNetCore.Authentication.AuthenticationService.AuthenticateAsync(HttpContext context, String scheme)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2023-07-24 10:01:12.250 +01:00 [ERR] An unhandled exception has occurred while executing the request.
+System.ArgumentNullException: Value cannot be null. (Parameter 's')
+   at System.ArgumentNullException.Throw(String paramName)
+   at System.Text.Encoding.GetBytes(String s)
+   at Program.<>c__DisplayClass0_0.<<Main>$>b__4(JwtBearerOptions options) in /Users/suzannah.thompson/RiderProjects/HotelListing/HotelListing.API/Program.cs:line 52
+   at Microsoft.Extensions.Options.OptionsFactory`1.Create(String name)
+   at System.Lazy`1.ViaFactory(LazyThreadSafetyMode mode)
+--- End of stack trace from previous location ---
+   at System.Lazy`1.CreateValue()
+   at Microsoft.Extensions.Options.OptionsCache`1.GetOrAdd[TArg](String name, Func`3 createOptions, TArg factoryArgument)
+   at Microsoft.AspNetCore.Authentication.AuthenticationHandler`1.InitializeAsync(AuthenticationScheme scheme, HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationHandlerProvider.GetHandlerAsync(HttpContext context, String authenticationScheme)
+   at Microsoft.AspNetCore.Authentication.AuthenticationService.AuthenticateAsync(HttpContext context, String scheme)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2023-07-24 10:01:42.809 +01:00 [INF] Application is shutting down...
+2023-07-24 10:01:47.465 +01:00 [INF] Now listening on: http://localhost:5193
+2023-07-24 10:01:47.495 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-07-24 10:01:47.495 +01:00 [INF] Hosting environment: Development
+2023-07-24 10:01:47.495 +01:00 [INF] Content root path: /Users/suzannah.thompson/RiderProjects/HotelListing/HotelListing.API
+2023-07-24 10:01:48.093 +01:00 [ERR] An unhandled exception has occurred while executing the request.
+System.ArgumentNullException: Value cannot be null. (Parameter 's')
+   at System.ArgumentNullException.Throw(String paramName)
+   at System.Text.Encoding.GetBytes(String s)
+   at Program.<>c__DisplayClass0_0.<<Main>$>b__4(JwtBearerOptions options) in /Users/suzannah.thompson/RiderProjects/HotelListing/HotelListing.API/Program.cs:line 52
+   at Microsoft.Extensions.Options.OptionsFactory`1.Create(String name)
+   at System.Lazy`1.ViaFactory(LazyThreadSafetyMode mode)
+   at System.Lazy`1.ExecutionAndPublication(LazyHelper executionAndPublication, Boolean useDefaultConstructor)
+   at System.Lazy`1.CreateValue()
+   at Microsoft.Extensions.Options.OptionsCache`1.GetOrAdd[TArg](String name, Func`3 createOptions, TArg factoryArgument)
+   at Microsoft.AspNetCore.Authentication.AuthenticationHandler`1.InitializeAsync(AuthenticationScheme scheme, HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationHandlerProvider.GetHandlerAsync(HttpContext context, String authenticationScheme)
+   at Microsoft.AspNetCore.Authentication.AuthenticationService.AuthenticateAsync(HttpContext context, String scheme)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2023-07-24 10:01:48.152 +01:00 [ERR] An unhandled exception has occurred while executing the request.
+System.ArgumentNullException: Value cannot be null. (Parameter 's')
+   at System.ArgumentNullException.Throw(String paramName)
+   at System.Text.Encoding.GetBytes(String s)
+   at Program.<>c__DisplayClass0_0.<<Main>$>b__4(JwtBearerOptions options) in /Users/suzannah.thompson/RiderProjects/HotelListing/HotelListing.API/Program.cs:line 52
+   at Microsoft.Extensions.Options.OptionsFactory`1.Create(String name)
+   at System.Lazy`1.ViaFactory(LazyThreadSafetyMode mode)
+--- End of stack trace from previous location ---
+   at System.Lazy`1.CreateValue()
+   at Microsoft.Extensions.Options.OptionsCache`1.GetOrAdd[TArg](String name, Func`3 createOptions, TArg factoryArgument)
+   at Microsoft.AspNetCore.Authentication.AuthenticationHandler`1.InitializeAsync(AuthenticationScheme scheme, HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationHandlerProvider.GetHandlerAsync(HttpContext context, String authenticationScheme)
+   at Microsoft.AspNetCore.Authentication.AuthenticationService.AuthenticateAsync(HttpContext context, String scheme)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2023-07-24 10:04:10.459 +01:00 [INF] Application is shutting down...
+2023-07-24 10:04:20.727 +01:00 [INF] Now listening on: http://localhost:5193
+2023-07-24 10:04:20.757 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-07-24 10:04:20.757 +01:00 [INF] Hosting environment: Development
+2023-07-24 10:04:20.758 +01:00 [INF] Content root path: /Users/suzannah.thompson/RiderProjects/HotelListing/HotelListing.API
+2023-07-24 10:04:21.295 +01:00 [ERR] An unhandled exception has occurred while executing the request.
+System.ArgumentNullException: Value cannot be null. (Parameter 's')
+   at System.ArgumentNullException.Throw(String paramName)
+   at System.Text.Encoding.GetBytes(String s)
+   at Program.<>c__DisplayClass0_0.<<Main>$>b__4(JwtBearerOptions options) in /Users/suzannah.thompson/RiderProjects/HotelListing/HotelListing.API/Program.cs:line 52
+   at Microsoft.Extensions.Options.OptionsFactory`1.Create(String name)
+   at System.Lazy`1.ViaFactory(LazyThreadSafetyMode mode)
+   at System.Lazy`1.ExecutionAndPublication(LazyHelper executionAndPublication, Boolean useDefaultConstructor)
+   at System.Lazy`1.CreateValue()
+   at Microsoft.Extensions.Options.OptionsCache`1.GetOrAdd[TArg](String name, Func`3 createOptions, TArg factoryArgument)
+   at Microsoft.AspNetCore.Authentication.AuthenticationHandler`1.InitializeAsync(AuthenticationScheme scheme, HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationHandlerProvider.GetHandlerAsync(HttpContext context, String authenticationScheme)
+   at Microsoft.AspNetCore.Authentication.AuthenticationService.AuthenticateAsync(HttpContext context, String scheme)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2023-07-24 10:04:21.350 +01:00 [ERR] An unhandled exception has occurred while executing the request.
+System.ArgumentNullException: Value cannot be null. (Parameter 's')
+   at System.ArgumentNullException.Throw(String paramName)
+   at System.Text.Encoding.GetBytes(String s)
+   at Program.<>c__DisplayClass0_0.<<Main>$>b__4(JwtBearerOptions options) in /Users/suzannah.thompson/RiderProjects/HotelListing/HotelListing.API/Program.cs:line 52
+   at Microsoft.Extensions.Options.OptionsFactory`1.Create(String name)
+   at System.Lazy`1.ViaFactory(LazyThreadSafetyMode mode)
+--- End of stack trace from previous location ---
+   at System.Lazy`1.CreateValue()
+   at Microsoft.Extensions.Options.OptionsCache`1.GetOrAdd[TArg](String name, Func`3 createOptions, TArg factoryArgument)
+   at Microsoft.AspNetCore.Authentication.AuthenticationHandler`1.InitializeAsync(AuthenticationScheme scheme, HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationHandlerProvider.GetHandlerAsync(HttpContext context, String authenticationScheme)
+   at Microsoft.AspNetCore.Authentication.AuthenticationService.AuthenticateAsync(HttpContext context, String scheme)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2023-07-24 10:25:54.861 +01:00 [INF] Application is shutting down...
+2023-07-24 10:25:57.416 +01:00 [INF] Now listening on: http://localhost:5193
+2023-07-24 10:25:57.446 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-07-24 10:25:57.447 +01:00 [INF] Hosting environment: Development
+2023-07-24 10:25:57.447 +01:00 [INF] Content root path: /Users/suzannah.thompson/RiderProjects/HotelListing/HotelListing.API
+2023-07-24 10:26:55.265 +01:00 [WRN] Failed to determine the https port for redirect.
+2023-07-24 10:26:56.470 +01:00 [ERR] An unhandled exception has occurred while executing the request.
+System.ArgumentNullException: Value cannot be null. (Parameter 's')
+   at System.ArgumentNullException.Throw(String paramName)
+   at System.Text.Encoding.GetBytes(String s)
+   at HotelListing.API.Repository.AuthManager.GenerateToken(ApiUser apiUser) in /Users/suzannah.thompson/RiderProjects/HotelListing/HotelListing.API/Repository/AuthManager.cs:line 63
+   at HotelListing.API.Repository.AuthManager.Login(LoginDto loginDto) in /Users/suzannah.thompson/RiderProjects/HotelListing/HotelListing.API/Repository/AuthManager.cs:line 52
+   at HotelListing.API.Controllers.AccountController.Register(LoginDto loginDto) in /Users/suzannah.thompson/RiderProjects/HotelListing/HotelListing.API/Controllers/AccountController.cs:line 54
+   at lambda_method6(Closure, Object)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2023-07-24 10:33:01.345 +01:00 [INF] Application is shutting down...
+2023-07-24 10:33:03.283 +01:00 [INF] Now listening on: http://localhost:5193
+2023-07-24 10:33:03.314 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-07-24 10:33:03.314 +01:00 [INF] Hosting environment: Development
+2023-07-24 10:33:03.314 +01:00 [INF] Content root path: /Users/suzannah.thompson/RiderProjects/HotelListing/HotelListing.API
+2023-07-24 10:33:18.099 +01:00 [WRN] Failed to determine the https port for redirect.
+2023-07-24 10:34:27.693 +01:00 [INF] Application is shutting down...
+2023-07-24 10:34:29.206 +01:00 [INF] Now listening on: http://localhost:5193
+2023-07-24 10:34:29.237 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-07-24 10:34:29.238 +01:00 [INF] Hosting environment: Development
+2023-07-24 10:34:29.238 +01:00 [INF] Content root path: /Users/suzannah.thompson/RiderProjects/HotelListing/HotelListing.API
+2023-07-24 10:40:52.601 +01:00 [WRN] Failed to determine the https port for redirect.
+2023-07-24 10:41:00.364 +01:00 [INF] Application is shutting down...
+2023-07-24 10:41:01.963 +01:00 [INF] Now listening on: http://localhost:5193
+2023-07-24 10:41:01.993 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-07-24 10:41:01.994 +01:00 [INF] Hosting environment: Development
+2023-07-24 10:41:01.994 +01:00 [INF] Content root path: /Users/suzannah.thompson/RiderProjects/HotelListing/HotelListing.API
+2023-07-24 10:41:17.439 +01:00 [WRN] Failed to determine the https port for redirect.
+2023-07-24 10:44:54.895 +01:00 [INF] Application is shutting down...
+2023-07-24 10:44:56.522 +01:00 [INF] Now listening on: http://localhost:5193
+2023-07-24 10:44:56.552 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-07-24 10:44:56.553 +01:00 [INF] Hosting environment: Development
+2023-07-24 10:44:56.553 +01:00 [INF] Content root path: /Users/suzannah.thompson/RiderProjects/HotelListing/HotelListing.API
+2023-07-24 10:47:54.371 +01:00 [WRN] Failed to determine the https port for redirect.
+2023-07-24 10:52:26.974 +01:00 [INF] Application is shutting down...
+2023-07-24 10:52:27.961 +01:00 [INF] Now listening on: http://localhost:5193
+2023-07-24 10:52:27.992 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-07-24 10:52:27.992 +01:00 [INF] Hosting environment: Development
+2023-07-24 10:52:27.992 +01:00 [INF] Content root path: /Users/suzannah.thompson/RiderProjects/HotelListing/HotelListing.API
+2023-07-24 10:52:33.716 +01:00 [WRN] Failed to determine the https port for redirect.
+2023-07-24 10:56:03.918 +01:00 [INF] Application is shutting down...
+2023-07-24 10:56:26.994 +01:00 [INF] Now listening on: http://localhost:5193
+2023-07-24 10:56:27.029 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-07-24 10:56:27.029 +01:00 [INF] Hosting environment: Development
+2023-07-24 10:56:27.029 +01:00 [INF] Content root path: /Users/suzannah.thompson/RiderProjects/HotelListing/HotelListing.API
+2023-07-24 10:57:14.752 +01:00 [WRN] Failed to determine the https port for redirect.
+2023-07-24 11:06:34.549 +01:00 [INF] Now listening on: http://localhost:5193
+2023-07-24 11:06:34.582 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-07-24 11:06:34.583 +01:00 [INF] Hosting environment: Development
+2023-07-24 11:06:34.583 +01:00 [INF] Content root path: /Users/suzannah.thompson/RiderProjects/HotelListing/HotelListing.API
+2023-07-24 11:06:40.064 +01:00 [WRN] Failed to determine the https port for redirect.
+2023-07-24 11:07:29.174 +01:00 [INF] Now listening on: http://localhost:5193
+2023-07-24 11:07:29.207 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-07-24 11:07:29.207 +01:00 [INF] Hosting environment: Development
+2023-07-24 11:07:29.207 +01:00 [INF] Content root path: /Users/suzannah.thompson/RiderProjects/HotelListing/HotelListing.API
+2023-07-24 11:07:34.717 +01:00 [WRN] Failed to determine the https port for redirect.
+2023-07-24 11:14:36.285 +01:00 [INF] Now listening on: http://localhost:5193
+2023-07-24 11:14:36.316 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-07-24 11:14:36.316 +01:00 [INF] Hosting environment: Development
+2023-07-24 11:14:36.316 +01:00 [INF] Content root path: /Users/suzannah.thompson/RiderProjects/HotelListing/HotelListing.API
+2023-07-24 11:14:44.655 +01:00 [WRN] Failed to determine the https port for redirect.
+2023-07-24 11:16:20.814 +01:00 [INF] Application is shutting down...
+2023-07-24 11:16:22.611 +01:00 [INF] Now listening on: http://localhost:5193
+2023-07-24 11:16:22.642 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-07-24 11:16:22.642 +01:00 [INF] Hosting environment: Development
+2023-07-24 11:16:22.642 +01:00 [INF] Content root path: /Users/suzannah.thompson/RiderProjects/HotelListing/HotelListing.API
+2023-07-24 11:16:32.987 +01:00 [WRN] Failed to determine the https port for redirect.
+2023-07-24 11:17:41.367 +01:00 [INF] Application is shutting down...
+2023-07-24 11:17:43.000 +01:00 [INF] Now listening on: http://localhost:5193
+2023-07-24 11:17:43.031 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-07-24 11:17:43.031 +01:00 [INF] Hosting environment: Development
+2023-07-24 11:17:43.031 +01:00 [INF] Content root path: /Users/suzannah.thompson/RiderProjects/HotelListing/HotelListing.API
+2023-07-24 11:17:45.783 +01:00 [WRN] Failed to determine the https port for redirect.
+2023-07-24 11:56:19.077 +01:00 [INF] Application is shutting down...
+2023-07-24 12:07:51.152 +01:00 [INF] Now listening on: http://localhost:5193
+2023-07-24 12:07:51.182 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-07-24 12:07:51.183 +01:00 [INF] Hosting environment: Development
+2023-07-24 12:07:51.183 +01:00 [INF] Content root path: /Users/suzannah.thompson/RiderProjects/HotelListing/HotelListing.API
+2023-07-24 12:08:04.504 +01:00 [WRN] Failed to determine the https port for redirect.
+2023-07-24 12:11:41.267 +01:00 [INF] Application is shutting down...
+2023-07-24 12:11:43.004 +01:00 [INF] Now listening on: http://localhost:5193
+2023-07-24 12:11:43.035 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-07-24 12:11:43.035 +01:00 [INF] Hosting environment: Development
+2023-07-24 12:11:43.035 +01:00 [INF] Content root path: /Users/suzannah.thompson/RiderProjects/HotelListing/HotelListing.API
+2023-07-24 12:11:53.013 +01:00 [WRN] Failed to determine the https port for redirect.
+2023-07-24 12:11:53.228 +01:00 [INF] Looking for user with email user@example.com
+2023-07-24 12:11:54.330 +01:00 [INF] Token generated for user with email user@example.com | Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ1c2VyQGV4YW1wbGUuY29tIiwianRpIjoiN2I0YWZlNDMtMzRlOC00YjE1LWEyNjItNjcxMzg2ZjgxZjgwIiwiZW1haWwiOiJ1c2VyQGV4YW1wbGUuY29tIiwidWlkIjoiOWQ3YjM0OWQtNjUwNi00MzBmLWE5OTQtZmMzMzg3OGZmNmMyIiwiaHR0cDovL3NjaGVtYXMubWljcm9zb2Z0LmNvbS93cy8yMDA4LzA2L2lkZW50aXR5L2NsYWltcy9yb2xlIjoiVXNlciIsImV4cCI6MTY5MDE5NzcxNCwiaXNzIjoiSG90ZWxMaXN0aW5nQVBJIiwiYXVkIjoiSG90ZWxMaXN0aW5nQVBJQ2xpZW50In0.Lzc-Ca74LcbQMIjzn6Y1r1FAQVbtJfDlFEo0QGXIiXA
+2023-07-24 12:14:18.332 +01:00 [INF] Application is shutting down...
+2023-07-24 12:18:09.615 +01:00 [INF] Now listening on: http://localhost:5193
+2023-07-24 12:18:09.646 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-07-24 12:18:09.646 +01:00 [INF] Hosting environment: Development
+2023-07-24 12:18:09.646 +01:00 [INF] Content root path: /Users/suzannah.thompson/RiderProjects/HotelListing/HotelListing.API
+2023-07-24 12:18:25.365 +01:00 [WRN] Failed to determine the https port for redirect.
+2023-07-24 12:20:37.570 +01:00 [INF] Application is shutting down...
+2023-07-24 12:20:39.752 +01:00 [INF] Now listening on: http://localhost:5193
+2023-07-24 12:20:39.781 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-07-24 12:20:39.781 +01:00 [INF] Hosting environment: Development
+2023-07-24 12:20:39.781 +01:00 [INF] Content root path: /Users/suzannah.thompson/RiderProjects/HotelListing/HotelListing.API
+2023-07-24 12:20:47.729 +01:00 [WRN] Failed to determine the https port for redirect.
+2023-07-24 12:22:11.621 +01:00 [INF] Application is shutting down...
+2023-07-24 12:22:13.208 +01:00 [INF] Now listening on: http://localhost:5193
+2023-07-24 12:22:13.239 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-07-24 12:22:13.239 +01:00 [INF] Hosting environment: Development
+2023-07-24 12:22:13.239 +01:00 [INF] Content root path: /Users/suzannah.thompson/RiderProjects/HotelListing/HotelListing.API
+2023-07-24 12:22:19.454 +01:00 [WRN] Failed to determine the https port for redirect.
+2023-07-24 12:24:17.161 +01:00 [INF] Application is shutting down...
+2023-07-24 12:24:18.692 +01:00 [INF] Now listening on: http://localhost:5193
+2023-07-24 12:24:18.721 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-07-24 12:24:18.722 +01:00 [INF] Hosting environment: Development
+2023-07-24 12:24:18.722 +01:00 [INF] Content root path: /Users/suzannah.thompson/RiderProjects/HotelListing/HotelListing.API
+2023-07-24 12:24:29.007 +01:00 [WRN] Failed to determine the https port for redirect.
+2023-07-24 12:24:29.221 +01:00 [INF] Looking for user with email user@example.com
+2023-07-24 12:24:30.313 +01:00 [INF] Token generated for user with email user@example.com | Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ1c2VyQGV4YW1wbGUuY29tIiwianRpIjoiZmEwMjk2MTQtZjMxZi00YmE5LTlhMWMtNDNiNWI4NTgzODEzIiwiZW1haWwiOiJ1c2VyQGV4YW1wbGUuY29tIiwidWlkIjoiOWQ3YjM0OWQtNjUwNi00MzBmLWE5OTQtZmMzMzg3OGZmNmMyIiwiaHR0cDovL3NjaGVtYXMubWljcm9zb2Z0LmNvbS93cy8yMDA4LzA2L2lkZW50aXR5L2NsYWltcy9yb2xlIjoiVXNlciIsImV4cCI6MTY5MDE5ODQ3MCwiaXNzIjoiSG90ZWxMaXN0aW5nQVBJIiwiYXVkIjoiSG90ZWxMaXN0aW5nQVBJQ2xpZW50In0.b4g19W3ybkS5XVaZXG9HX_11Dwl72OYAmE5cp_KMYhE
+2023-07-24 12:25:16.681 +01:00 [INF] Application is shutting down...
+2023-07-24 12:27:56.112 +01:00 [INF] Now listening on: http://localhost:5193
+2023-07-24 12:27:56.142 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-07-24 12:27:56.142 +01:00 [INF] Hosting environment: Development
+2023-07-24 12:27:56.142 +01:00 [INF] Content root path: /Users/suzannah.thompson/RiderProjects/HotelListing/HotelListing.API
+2023-07-24 12:28:06.896 +01:00 [WRN] Failed to determine the https port for redirect.
+2023-07-24 12:33:55.504 +01:00 [INF] Application is shutting down...
+2023-07-24 12:33:57.114 +01:00 [INF] Now listening on: http://localhost:5193
+2023-07-24 12:33:57.145 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-07-24 12:33:57.145 +01:00 [INF] Hosting environment: Development
+2023-07-24 12:33:57.145 +01:00 [INF] Content root path: /Users/suzannah.thompson/RiderProjects/HotelListing/HotelListing.API
+2023-07-24 12:34:09.541 +01:00 [WRN] Failed to determine the https port for redirect.
+2023-07-24 12:35:26.367 +01:00 [INF] Application is shutting down...
+2023-07-24 12:35:27.865 +01:00 [INF] Now listening on: http://localhost:5193
+2023-07-24 12:35:27.895 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-07-24 12:35:27.895 +01:00 [INF] Hosting environment: Development
+2023-07-24 12:35:27.895 +01:00 [INF] Content root path: /Users/suzannah.thompson/RiderProjects/HotelListing/HotelListing.API
+2023-07-24 12:35:34.399 +01:00 [WRN] Failed to determine the https port for redirect.
+2023-07-24 12:36:39.924 +01:00 [INF] Application is shutting down...
+2023-07-24 12:36:41.457 +01:00 [INF] Now listening on: http://localhost:5193
+2023-07-24 12:36:41.486 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-07-24 12:36:41.486 +01:00 [INF] Hosting environment: Development
+2023-07-24 12:36:41.486 +01:00 [INF] Content root path: /Users/suzannah.thompson/RiderProjects/HotelListing/HotelListing.API
+2023-07-24 12:36:46.593 +01:00 [WRN] Failed to determine the https port for redirect.
+2023-07-24 12:47:09.281 +01:00 [INF] Application is shutting down...
