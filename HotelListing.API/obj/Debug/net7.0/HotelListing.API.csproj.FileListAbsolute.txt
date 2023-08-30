@@ -301,3 +301,10 @@
 /Users/suzannah.thompson/RiderProjects/HotelListing/HotelListing.API/obj/Debug/net7.0/HotelListing.API.pdb
 /Users/suzannah.thompson/RiderProjects/HotelListing/HotelListing.API/obj/Debug/net7.0/HotelListing.API.genruntimeconfig.cache
 /Users/suzannah.thompson/RiderProjects/HotelListing/HotelListing.API/obj/Debug/net7.0/ref/HotelListing.API.dll
+/Users/suzannah.thompson/RiderProjects/HotelListing/HotelListing.API/bin/Debug/net7.0/Microsoft.AspNetCore.Mvc.Versioning.dll
+/Users/suzannah.thompson/RiderProjects/HotelListing/HotelListing.API/bin/Debug/net7.0/Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer.dll
+/Users/suzannah.thompson/RiderProjects/HotelListing/HotelListing.API/bin/Debug/net7.0/Microsoft.AspNetCore.OData.dll
+/Users/suzannah.thompson/RiderProjects/HotelListing/HotelListing.API/bin/Debug/net7.0/Microsoft.OData.Core.dll
+/Users/suzannah.thompson/RiderProjects/HotelListing/HotelListing.API/bin/Debug/net7.0/Microsoft.OData.Edm.dll
+/Users/suzannah.thompson/RiderProjects/HotelListing/HotelListing.API/bin/Debug/net7.0/Microsoft.OData.ModelBuilder.dll
+/Users/suzannah.thompson/RiderProjects/HotelListing/HotelListing.API/bin/Debug/net7.0/Microsoft.Spatial.dll
